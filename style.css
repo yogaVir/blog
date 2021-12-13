@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&display=swap');
 
 body{
-    background-color: black;
+    background-color: #EAEAEA;
     margin-top: 100px;
     margin-bottom: 100px;
 }
@@ -13,7 +13,7 @@ body{
     height: 50px;
     top: 0;
     left: 0;
-    background-color: #1e1f28;
+    background-color: #FFF;
 }
 
 .menuBar .icon{
@@ -39,7 +39,7 @@ body{
     font-family: 'DM Serif Display', serif;
     margin: auto;
     /* background-color: #5656d1; */    
-    background-color: #1e1f28;
+    background-color: #FFF;
     width: 700px;
     height: auto;
 }
@@ -63,7 +63,7 @@ body{
 .date{
     margin-bottom: 10px;
     font-size: small;
-    color: #FFF;
+    color: #1e1f28;
     font-weight: 100;
 }
 
@@ -72,6 +72,6 @@ body{
     line-height: 1.6;
     font-size: small;
     /* color: #22ffcd; */
-    color: white;
+    color: #1e1f28;
     font-weight: 100;
 }
